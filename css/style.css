@@ -126,7 +126,7 @@ ul {
         text-align: left;
     }
 }
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1100px) {
     .banner {
         background-image: url(../img/banner.png);
         background-size: 100%;
